@@ -1,30 +1,32 @@
-# Project Title
+# HBM+
 HBM+ Frontend
 
-## Table of Content:
+## Conteúedo:
 
 - [Sobre o projeto](#sobre-o-app)
 - [Screenshots](#screenshots)
 - [Tecnologias](#technologies)
 - [Setup](#setup)
-- [License](#license)
+- [Licença](#licença)
 
 ## Sobre o app
-Projeto simples que visa a exibição de dados em tempo real via Websocket
+Projeto simples que visa a exibição de dados em tempo real via websocket, utilizando a biblioteca rechart
+Para conseguir visualizar os dados, faça o clone e instalação do repositório:
+https://github.com/ferdinandbr/hbm-api
 
 ## Screenshots
 
-`![](https://i.imgur.com/JNTTqEZ.gif)`
+![](https://i.imgur.com/JNTTqEZ.gif)
 
 ## Technologies
 Para este projeto foi utilizado o framework React
 
 ## Setup
 - Clone o repositório
--> git clone https://github.com/ferdinandbr/hbm-front.git
+- git clone https://github.com/ferdinandbr/hbm-front.git
 - run `npm install`
 - run `npm start`
-- ...
-## License
 
-MIT license @ [author](author.com)
+## Licença
+
+MIT license
